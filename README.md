@@ -6,7 +6,7 @@ RoadSoS is an **offline-first accident response Progressive Web App** that surfa
 
 > **Why no LLM for contacts?** Competitors use Gemini/Claude and risk hallucinating fake hospitals in life-or-death moments. We use deterministic retrieval on source-verified data. Safety-critical systems don't gamble.
 
-**Repository:** https://github.com/Roopalgn/RoadSafety-iitM  
+**Repository:** https://github.com/Roopalgn/IITM-RoadSOS  
 **Hackathon:** Road Safety Hackathon 2026 | IIT Madras | Unstop
 
 ---
