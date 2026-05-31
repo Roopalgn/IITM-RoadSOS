@@ -222,9 +222,12 @@ All contacts verified against official government and hospital websites as of **
 
 ## Deployment
 
-The app can be deployed for free:
-- **Backend:** [Render.com](https://render.com) — `render.yaml` is included
-- **Frontend:** [Vercel](https://vercel.com) — `vercel.json` is included
+The app is fully deployed and live:
+- **Backend API (Deployed on Render):** [https://roadsafety-iitm.onrender.com](https://roadsafety-iitm.onrender.com)
+  - **Interactive API Docs (Swagger):** [https://roadsafety-iitm.onrender.com/docs](https://roadsafety-iitm.onrender.com/docs)
+- **Frontend PWA (Deployed on Vercel):** [https://road-safety-iit-m.vercel.app](https://road-safety-iit-m.vercel.app)
+
+The configuration files (`render.yaml` and `vercel.json`) are included in the repository root for replication or reference.
 
 ---
 
